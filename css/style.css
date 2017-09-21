@@ -1,0 +1,15 @@
+/* A new Comment */
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+figure {
+  /* font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  font-family: Georgia, "New Times Roman", serif;*/
+  font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
+
+}
